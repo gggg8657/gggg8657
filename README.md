@@ -1,5 +1,9 @@
 # gggg8657
 
+![Pytorch](https://img.shields.io/badge/Pytorch-323330?style=for-the-badge&logo=Pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=for-the-badge&logo=TensorFlow&logoColor=#FF6F00)
+
+
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gggg8657&show_icons=true) 
