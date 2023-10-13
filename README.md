@@ -45,7 +45,7 @@
 
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gggg8657&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=gggg8657)](https://solved.ac/gggg8657)
+
 
   * # Contacts
 
