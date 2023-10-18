@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=DongJu%20Kim&fontSize=45&animation=fadeIn&fontAlignY=38&desc=gggg8657%20@%20gmail%20.com&descAlignY=51&descAlign=62)
 
+
+
 <br>
 
   * #### Skills
@@ -55,3 +57,5 @@
     <a href="https://www.instagram.com/dongju_kim_" target="_blank"><img src="https://img.shields.io/badge/dongju_kim_-CB3F7C?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <a href="mailto:gggg8657@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gggg8657@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
     </p>
+
+$$ 아아아아아악PM 하고싶어요 시켜주세요 응애 $$
