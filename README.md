@@ -33,7 +33,7 @@
     ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-323330?style=square&logo=VisualStudioCode&logoColor=007ACC)
     ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-323330?style=square&logo=VisualStudio&logoColor=5C2D91)
 
-    * OS
+    * 
 
     ![Windows](https://img.shields.io/badge/Windows-323330?style=square&logo=Windows95&logoColor=008080)
     ![macOS](https://img.shields.io/badge/macOS-323330?style=square&logo=macOS&logoColor=000000)
