@@ -8,32 +8,49 @@
 
     * Programming Language
 
-    ![Python](https://img.shields.io/badge/Python-323330?style=square&logo=Python&logoColor=3776AB)
-    ![C Lang](https://img.shields.io/badge/C_Lang-323330?style=square&logo=C&logoColor=A8B9CC)
+    ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-    * Libraris || FrameWorks
+    * ML/DL
 
-    ![Pytorch](https://img.shields.io/badge/Pytorch-323330?style=square&logo=Pytorch&logoColor=EE4C2C)
-    ![TensorFlow](https://img.shields.io/badge/TensorFlow-323330?style=square&logo=TensorFlow&logoColor=FF6F00)
-    ![Keras](https://img.shields.io/badge/Keras-323330?style=square&logo=Keras&logoColor=D00000)
-    ![scikit-learn](https://img.shields.io/badge/scikit_learn-323330?style=square&logo=scikitlearn&logoColor=F7931E)
-    ![SciPy](https://img.shields.io/badge/SciPy-323330?style=square&logo=SciPy&logoColor=8CAAE6)
-    ![NumPy](https://img.shields.io/badge/NumPy-323330?style=square&logo=NumPy&logoColor=013243)
-    ![pandas](https://img.shields.io/badge/pandas-323330?style=square&logo=pandas&logoColor=150458)
+    ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+    ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+    ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+    ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+    ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+    * CI/CD
+
+    ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+    ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+    ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+    * ?
+
+    ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+    * etc
+    
+    ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+    ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+    ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 </br>
 <br>
 
   * #### Tools
 
-    * IDE
+    
 
     ![iTerm2](https://img.shields.io/badge/iterm2-323330?style=square&logo=iterm2&logoColor=000000)
     ![Jupyter](https://img.shields.io/badge/Jupyter-323330?style=square&logo=TensorFlow&logoColor=F37626)
     ![Xcode](https://img.shields.io/badge/Xcode-323330?style=square&logo=Xcode&logoColor=147EFB)
     ![Visual_Studio_Code](https://img.shields.io/badge/Visual_Studio_Code-323330?style=square&logo=VisualStudioCode&logoColor=007ACC)
     ![Visual_Studio](https://img.shields.io/badge/Visual_Studio-323330?style=square&logo=VisualStudio&logoColor=5C2D91)
-
-    * 
 
     ![Windows](https://img.shields.io/badge/Windows-323330?style=square&logo=Windows95&logoColor=008080)
     ![macOS](https://img.shields.io/badge/macOS-323330?style=square&logo=macOS&logoColor=000000)
