@@ -2,7 +2,7 @@
 
 <br>
 
-  * #### Skills
+  * ### Skills
 
     * **Programming Languages**
       
@@ -44,7 +44,7 @@
 </br>
 <br>
 
-  * #### Tools
+  * ### Tools
 
     * **Terminals**
 
