@@ -3,7 +3,7 @@
 
 <p align="center">
   <strong>👋 Hello World! I'm DongJu Kim.</strong><br/>
-  Passionate about <strong>Machine/Deep Learning</strong>, <strong>System Development</strong>, and <strong>Prompt Engineering</strong>.<br/>
+  Passionate about <strong>Machine/Deep Learning</strong>, <strong>System Development</strong>, and <strong>Applying AI to world</strong>.<br/>
   Building robust services, exploring new tech, and pushing boundaries! 🚀
 </p>
 
