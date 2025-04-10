@@ -18,6 +18,7 @@
   - **Deep Learning**: Specialized in Computer Vision tasks (e.g., **Object Detection**, **Image Classification**).
   - **Cloud/CI-CD**: Deployed containerized applications with `Docker`, orchestrated by `Kubernetes`, and integrated pipelines with `Jenkins` & `GitHub Actions` on `Azure`.
   - **Prompt Engineering**: Created advanced prompt designs & experiments using `ChatGPT` to automate tasks & enhance productivity.
+- 🧑🏻‍💻 **Now** working on Applying AI to Atomic Energy Domain. Especially on applying Computer Vision Based systems.
 
 ---
 
