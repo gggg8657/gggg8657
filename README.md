@@ -7,6 +7,13 @@
   Building robust services, exploring new tech, and pushing boundaries! 🚀
 </p>
 
+> **📌 Full résumé & projects:** **[gggg8657.github.io](https://gggg8657.github.io)** · [Surfit](https://my.surfit.io/w/167689643) · [LinkedIn](https://www.linkedin.com/in/dongju-kim-ai/)
+
+**Now @ [KAERI](https://www.kaeri.re.kr)** — AI Application Lab (Post-Master Researcher)  
+Building **AI-Scientist** pipelines: intelligent CCTV (VAD·VLM·Agents), physics-informed battery modeling (PyBaMM), radiopharmaceutical design agents.
+
+**Highlights:** CCTV **AUC 82.4% / 265 FPS** · Thesis **AUDISP F1 0.88** · KAERI Outstanding Researcher **2025**
+
 ---
 
 ## 🔎 About Me
@@ -18,7 +25,7 @@
   - **Deep Learning**: Specialized in Computer Vision tasks (e.g., **Object Detection**, **Image Classification**).
   - **Cloud/CI-CD**: Deployed containerized applications with `Docker`, orchestrated by `Kubernetes`, and integrated pipelines with `Jenkins` & `GitHub Actions` on `Azure`.
   - **Prompt Engineering**: Created advanced prompt designs & experiments using `ChatGPT` to automate tasks & enhance productivity.
-- 🧑🏻‍💻 **Now** working on Applying AI to Atomic Energy Domain. Especially on applying Computer Vision Based systems.
+- 🧑🏻‍💻 **Now** @ KAERI — AI-Scientist pipelines for CCTV, battery, and radiopharmaceutical R&D ([portfolio](https://gggg8657.github.io)).
 
 ---
 
