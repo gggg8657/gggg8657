@@ -16,6 +16,18 @@ Building **AI-Scientist** pipelines: intelligent CCTV (VAD·VLM·Agents), physic
 
 ---
 
+## 📂 Featured Projects
+
+| Project | What | Links |
+|---------|------|-------|
+| **Intelligent CCTV** | VAD · VLM · Agentic AI 3-layer E2E anomaly detection (closed-network, on-prem) | [repo](https://github.com/gggg8657/AI_CCTV_final) · [detail](https://gggg8657.github.io/projects/cctv.html) |
+| **AUDISP** | AU-driven 3D facial detail reconstruction (master's thesis, built on DECA) | [repo](https://github.com/gggg8657/audisp) · [detail](https://gggg8657.github.io/projects/audisp.html) |
+| **Battery RUL/EOL** | Physics-based inverse + operator-learning life prediction on open datasets | [repo](https://github.com/gggg8657/battery-rul) · [detail](https://gggg8657.github.io/projects/battery.html) |
+
+Full portfolio → **[gggg8657.github.io](https://gggg8657.github.io)**
+
+---
+
 ## 🔎 About Me
 - 🌱 **Love** exploring new technologies, from <em>ML/DL</em> to <em>CI/CD</em> and <em>Cloud</em>.
 - ✨ **Focus** on writing clean, efficient, and well-documented code.
